@@ -1,0 +1,698 @@
+// 各个字符的点阵图
+// 0
+__attribute__((section(".rodata"))) const u8 char_dot_0[8] = {
+	0b00111000,
+	0b01001100,
+	0b11000110,
+	0b11000110,
+	0b11000110,
+	0b01100100,
+	0b00111000,
+	0b00000000
+};
+
+// 1
+__attribute__((section(".rodata"))) static const u8 char_dot_1[8] = {
+	0b00110000,
+	0b01110000,
+	0b00110000,
+	0b00110000,
+	0b00110000,
+	0b00110000,
+	0b11111100,
+	0b00000000
+};
+
+// 2
+__attribute__((section(".rodata"))) static const u8 char_dot_2[8] = {
+	0b01111100,
+	0b11000110,
+	0b00000110,
+	0b00111100,
+	0b01110000,
+	0b11100000,
+	0b11111110,
+	0b00000000
+};
+
+// 3
+__attribute__((section(".rodata"))) static const u8 char_dot_3[8] = {
+	0b01111110,
+	0b00001100,
+	0b00011000,
+	0b00111100,
+	0b00000110,
+	0b11000110,
+	0b01111100,
+	0b00000000
+};
+
+// 4
+__attribute__((section(".rodata"))) static const u8 char_dot_4[8] = {
+	0b00011100,
+	0b00111100,
+	0b01101100,
+	0b11001100,
+	0b11111110,
+	0b00001100,
+	0b00001100,
+	0b00000000
+};
+
+// 5
+__attribute__((section(".rodata"))) const u8 char_dot_5[8] = {
+	0b11111100,
+	0b11000000,
+	0b11111100,
+	0b00000110,
+	0b00000110,
+	0b11000110,
+	0b01111100,
+	0b00000000
+};
+
+// 6
+__attribute__((section(".rodata"))) const u8 char_dot_6[8] = {
+	0b00111100,
+	0b01100000,
+	0b11000000,
+	0b11111100,
+	0b11000110,
+	0b11000110,
+	0b01111100,
+	0b00000000
+};
+
+// 7
+__attribute__((section(".rodata"))) const u8 char_dot_7[8] = {
+	0b11111110,
+	0b10000110,
+	0b00001100,
+	0b00011000,
+	0b00110000,
+	0b00110000,
+	0b00110000,
+	0b00000000
+};
+
+//8
+__attribute__((section(".rodata"))) const u8 char_dot_8[8] = {
+    0b01111000,
+	0b11000100,
+	0b11100100,
+	0b01111000,
+	0b10011110,
+	0b10000110,
+	0b01111100,
+    0b00000000
+};
+
+//9
+__attribute__((section(".rodata"))) const u8 char_dot_9[8] = {
+	0b01111100, 
+    0b11000110, 
+    0b11000110, 
+    0b01111110, 
+    0b00000110, 
+    0b00001100, 
+    0b00111000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_A[8] = {
+	0b00111000, 
+    0b01101100, 
+    0b11000110,
+	0b11000110,
+	0b11111110,
+	0b11000110,
+	0b11000110,
+    0b00000000
+};
+
+
+__attribute__((section(".rodata"))) const u8 char_dot_B[8] = {
+	0b11111100, 
+    0b11000110, 
+    0b11000110, 
+    0b11111100, 
+    0b11000110, 
+    0b11000110, 
+    0b11111100, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_C[8] = {
+	0b00111100,
+	0b01100110,
+	0b11000000,
+	0b11000000,
+	0b11000000,
+	0b01100110,
+	0b00111100,
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_D[8] = {
+	0b11111000, 
+    0b11001100, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11001100, 
+    0b11111000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_E[8] = {
+	0b01111110, 
+    0b01100000, 
+    0b01100000, 
+    0b01111110, 
+    0b01100000, 
+    0b01100000, 
+    0b01111110, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_F[8] = {
+	0b01111110, 
+    0b01100000, 
+    0b01100000, 
+    0b01111100, 
+    0b01100000, 
+    0b01100000, 
+    0b01100000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_G[8] = {
+	0b00111110, 
+    0b01100000, 
+    0b11000000, 
+    0b11001110, 
+    0b11000110, 
+    0b01100110, 
+    0b00111110, 
+    0b00000000
+};
+
+//H
+__attribute__((section(".rodata"))) const u8 char_dot_H[8] = {
+	0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11111110, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_I[8] = {
+	0b11111100, 
+    0b00110000, 
+    0b00110000, 
+    0b00110000, 
+    0b00110000, 
+    0b00110000, 
+    0b11111100, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_J[8] = {
+	0b00000110, 
+    0b00000110, 
+    0b00000110, 
+    0b00000110, 
+    0b00000110, 
+    0b11000110, 
+    0b01111100, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_K[8] = {
+	0b11000110, 
+    0b11001100, 
+    0b11011000, 
+    0b11110000, 
+    0b11111000, 
+    0b11011100, 
+    0b11001110, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_L[8] = {
+	0b11000000, 
+    0b11000000, 
+    0b11000000, 
+    0b11000000, 
+    0b11000000, 
+    0b11000000, 
+    0b11111110, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_M[8] = {
+	0b11000110, 
+    0b11101110, 
+    0b11111110, 
+    0b11010110, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_N[8] = {
+	0b11000110, 
+    0b11100110, 
+    0b11110110, 
+    0b11111110, 
+    0b11011110, 
+    0b11001110, 
+    0b11000110, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_O[8] = {
+	0b01111100, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b01111100, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_P[8] = {
+	0b11111100, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11111100, 
+    0b11000000, 
+    0b11000000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Q[8] = {
+    0b01111100, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11011110, 
+    0b11001100, 
+    0b01111010, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_R[8] = {
+	0b11111100, 
+    0b11000110, 
+    0b11000110, 
+    0b11001110, 
+    0b11111000, 
+    0b11011100, 
+    0b11001110, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_S[8] = {
+	0b01111000, 
+    0b11001100,
+	0b11000000,
+	0b01111100,
+	0b00000110,
+	0b11000110,
+	0b01111100,
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_T[8] = {
+	0b11111100, 
+    0b00110000, 
+    0b00110000, 
+    0b00110000, 
+    0b00110000, 
+    0b00110000, 
+    0b00110000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_U[8] = {
+	0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b01111100, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_V[8] = {
+	0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11101110, 
+    0b01111100, 
+    0b00111000, 
+    0b00010000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_W[8] = {
+	0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b11010110, 
+    0b11111110, 
+    0b11101110, 
+    0b11000110, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_X[8] = { 
+    0b11000110, 
+    0b11101110, 
+    0b01111100, 
+    0b00111000, 
+    0b01111100, 
+    0b11101110, 
+    0b11000110,
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Y[8] = {
+	0b11000110, 
+    0b11000110, 
+    0b11000110, 
+    0b01111100, 
+    0b00111000, 
+    0b00111000, 
+    0b00111000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Z[8] = {
+	0b11111110, 
+    0b00001110, 
+    0b00011100, 
+    0b00111000, 
+    0b01110000, 
+    0b11100000, 
+    0b11111110, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_single_quote[8] = {
+	0b01000000, 
+    0b01000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_double_quote[8] = {
+	0b01010000, 
+    0b01010000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_leftbracket[8] = {
+	0b00100000, 
+    0b01000000, 
+    0b01000000, 
+    0b01000000, 
+    0b01000000, 
+    0b01000000, 
+    0b00100000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_rightbracket[8] = {
+	0b01000000, 
+    0b00100000, 
+    0b00100000, 
+    0b00100000, 
+    0b00100000, 
+    0b00100000, 
+    0b01000000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_minus[8] = {
+	0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b01111100, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_plus[8] = {
+	0b00000000, 
+    0b00010000, 
+    0b00010000, 
+    0b01111100, 
+    0b00010000, 
+    0b00010000, 
+    0b00000000, 
+    0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_underline[8] = {
+	0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b01111100, 
+    0b00000000
+};
+
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_0[8] = {
+	0b01100011,
+	0b00110011,
+	0b00110111,
+	0b00000110,
+	0b00000000,
+	0b11110111,
+	0b11110111,
+	0b00110001
+};
+
+// 第0号中文的第1号tile
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_1[8] = {
+	0b01100000,
+	0b11111100,
+	0b11111100,
+	0b01100000,
+	0b01100000,
+	0b11111110,
+	0b11111110,
+	0b10110000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_2[8] = {
+	0b00110011,
+	0b00110011,
+	0b11111101,
+	0b11111100,
+	0b00110001,
+	0b00110111,
+	0b00111000,
+	0b11111011
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_3[8] = {
+	0b11111000,
+	0b11111000,
+	0b10011000,
+	0b10110000,
+	0b11110000,
+	0b00011110,
+	0b01100000,
+	0b11111000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_4[8] = {
+	0b11000110,
+	0b01100010,
+	0b00011111,
+	0b00011111,
+	0b11001100,
+	0b01101111,
+	0b00001111,
+	0b00001101
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_5[8] = {
+	0b00110000,
+	0b00111110,
+	0b01111110,
+	0b11000000,
+	0b10111110,
+	0b00111110,
+	0b00001100,
+	0b01111110
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_6[8] = {
+	0b00000000,
+	0b11111100,
+	0b11111100,
+	0b00001100,
+	0b00001111,
+	0b01101111,
+	0b01101100,
+	0b00111000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_7[8] = {
+	0b11010000,
+	0b11011000,
+	0b11001000,
+	0b11111100,
+	0b11111100,
+	0b11000000,
+	0b11001000,
+	0b11011000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_8[8] = {
+	0b00110001,
+	0b00110011,
+	0b00110110,
+	0b00111000,
+	0b01101111,
+	0b11000111,
+	0b00000000,
+	0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_9[8] = {
+	0b10110000,
+	0b00110110,
+	0b00011110,
+	0b00000000,
+	0b11111110,
+	0b11111110,
+	0b00000000,
+	0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_10[8] = {
+	0b11110011,
+	0b00110000,
+	0b00110111,
+	0b00110111,
+	0b01110000,
+	0b01100000,
+	0b00000000,
+	0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_11[8] = {
+	0b11111000,
+	0b01100000,
+	0b11111100,
+	0b11111100,
+	0b01100000,
+	0b01100000,
+	0b00000000,
+	0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_12[8] = {
+	0b00101101,
+	0b00101101,
+	0b01101101,
+	0b01001101,
+	0b11011101,
+	0b11011011,
+	0b00000000,
+	0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_13[8] = {
+	0b01111110,
+	0b00011000,
+	0b00011000,
+	0b00011000,
+	0b00111000,
+	0b00110000,
+	0b00000000,
+	0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_14[8] = {
+	0b00011000,
+	0b00111100,
+	0b01100100,
+	0b11000000,
+	0b10000011,
+	0b00000011,
+	0b00000000,
+	0b00000000
+};
+
+__attribute__((section(".rodata"))) const u8 char_dot_Chinese_0_15[8] = {
+	0b11011000,
+	0b01110000,
+	0b01100010,
+	0b11110110,
+	0b10011110,
+	0b00001110,
+	0b00000000,
+	0b00000000
+};
+
+// 存储中文点阵tile地址的数组
+const u8* const char_dot_Chinese_0[16] = {
+	char_dot_Chinese_0_0,
+	char_dot_Chinese_0_1,
+	char_dot_Chinese_0_2,
+	char_dot_Chinese_0_3,
+	char_dot_Chinese_0_4,
+	char_dot_Chinese_0_5,
+	char_dot_Chinese_0_6,
+	char_dot_Chinese_0_7,
+	char_dot_Chinese_0_8,
+	char_dot_Chinese_0_9,
+	char_dot_Chinese_0_10,
+	char_dot_Chinese_0_11,
+	char_dot_Chinese_0_12,
+	char_dot_Chinese_0_13,
+	char_dot_Chinese_0_14,
+	char_dot_Chinese_0_15
+};
+
+
+
+/*
+__attribute__((section(".rodata"))) const u8 char_dot_null[8] = {
+	0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000, 
+    0b00000000
+};
+*/

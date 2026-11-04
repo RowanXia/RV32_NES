@@ -1,0 +1,39 @@
+`ifndef RV32_PERF_DEFS_VH
+`define RV32_PERF_DEFS_VH
+
+`define PERF_COUNTER_WIDTH                 64
+`define PERF_COUNTER_COUNT                 31
+
+`define PERF_ID_CYCLES                     0
+`define PERF_ID_INSTRET                    1
+`define PERF_ID_COND_BRANCH                2
+`define PERF_ID_COND_BRANCH_MISS           3
+`define PERF_ID_ALL_CFI_MISS               4
+`define PERF_ID_ICACHE_REFILL_DONE         5
+`define PERF_ID_DCACHE_REFILL_DONE         6
+`define PERF_ID_ICACHE_ACCESS_OBSERVED     7
+`define PERF_ID_DCACHE_ACCESS_OBSERVED     8
+`define PERF_ID_FRONTEND_HOLD_CYCLES       9
+`define PERF_ID_FETCH_PATH_WAIT_CYCLES    10
+`define PERF_ID_ICACHE_BUSY_CYCLES        11
+`define PERF_ID_MEM_PATH_WAIT_CYCLES      12
+`define PERF_ID_DCACHE_BUSY_CYCLES        13
+`define PERF_ID_DIVISION_BUSY_CYCLES      14
+`define PERF_ID_DEPENDENCY_STALL_CYCLES   15
+`define PERF_ID_ICACHE_REQUEST_ACCEPT     16
+`define PERF_ID_ICACHE_MISS_START         17
+`define PERF_ID_DCACHE_LOAD_ACCEPT        18
+`define PERF_ID_DCACHE_LOAD_MISS_START    19
+`define PERF_ID_DCACHE_STORE_ACCEPT       20
+`define PERF_ID_DCACHE_STORE_MISS_START   21
+`define PERF_ID_DCACHE_WRITEBACK_START    22
+`define PERF_ID_AHB_WAIT_CYCLES           23
+`define PERF_ID_HOLD_EXCL_EXTERNAL        24
+`define PERF_ID_HOLD_EXCL_WFI             25
+`define PERF_ID_HOLD_EXCL_MEMORY          26
+`define PERF_ID_HOLD_EXCL_FETCH           27
+`define PERF_ID_HOLD_EXCL_DIVISION        28
+`define PERF_ID_HOLD_EXCL_DEPENDENCY      29
+`define PERF_ID_HOLD_EXCL_OTHER           30
+
+`endif

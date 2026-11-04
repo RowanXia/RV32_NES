@@ -1,0 +1,15 @@
+{
+  "image": "software/board_app/app.bin",
+  "image_bytes": 49152,
+  "image_sha256": "421b390dca445122615f7b2ec138032b137d4f7727203cc503ac11d28f1f0ac7",
+  "elf_sha256": "dda10053bded8ccb6dc9800da1c932f8396091411b84047a78ff7a8870206c93",
+  "bank_bytes": 8192,
+  "banks": {
+    "bank0.mem": "8c25693e38a0cf75f05358b925bb4988dd7008fe6824bb045314c9eaf6d2985c",
+    "bank1.mem": "062c1431af06f1ec5d774d235a02d81494eb1ba144e1c15275f8dadecf2a9fe2",
+    "bank2.mem": "c25f43d2b614108a1eaf47a3b7249474d3eedfa9fe5bd4b78f8f6bf31dbd2c99",
+    "bank3.mem": "88a9db020d15a3647e3e1a9cefadb57e6c9c8652f1233a424dd330c1125f9503",
+    "bank4.mem": "0a211a3d2ab8a4392311a3cf73395f4f776b2940fbaf886b4ee9d4a7d571f637",
+    "bank5.mem": "0a211a3d2ab8a4392311a3cf73395f4f776b2940fbaf886b4ee9d4a7d571f637"
+  }
+}

@@ -1,0 +1,436 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 de:/download/edge/FPGA_NES_RV32_R5_AUDIO_SoC_Reorganized_20261101/FPGA_NES_RV32_R5_RELEASE_REFACTORED/src
+vahb_arbiter_fsm
+!s110 1793602092
+!i10b 1
+!s100 _n0XOjKg4Ngd;e34P1djR0
+!s11b 0O>;eQ0^_DCEhI>mcGURG2
+IoP<NhhOLhPdOhTzShjR@21
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 de:/download/edge/RV32_NES_Core_Detailed_English_Comments/RV32_NES/src
+Z3 w1793525529
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_arbiter_fsm.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_arbiter_fsm.v
+L0 5
+Z4 OL;L;2019.2;69
+r1
+!s85 0
+31
+!s108 1793602092.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_arbiter_fsm.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_arbiter_fsm.v|
+!i113 0
+Z5 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vahb_bus_unit
+!s110 1793522249
+!i10b 1
+!s100 Q5HMG:;<V[n5^DH_j[]5<3
+!s11b QUiC:a[A>@;=MLaLJ`3AK1
+IHZ;mJj1beLhGi42AR]FnM3
+R1
+R2
+Z7 w1793493154
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_bus_unit.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_bus_unit.v
+L0 9
+R4
+r1
+!s85 0
+31
+!s108 1793522249.000000
+!s107 config.vh|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_bus_unit.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_bus_unit.v|
+!i113 0
+R5
+R6
+vahb_cache_fsm
+!s110 1793601879
+!i10b 1
+!s100 Ul]haaGf__Wm^BFHjzV3<0
+!s11b <bjFYiHMSkTg^TVi91^?h0
+IfHYFN?0lS[Q4T]fjUjO4o2
+R1
+R2
+R3
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_cache_fsm.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_cache_fsm.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1793601879.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_cache_fsm.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_cache_fsm.v|
+!i113 0
+R5
+R6
+vahb_cache_interface
+!s110 1793522250
+!i10b 1
+!s100 To7^KDZmd0L39m>i_l37X0
+!s11b WH2lBh?6gGMRzh4egP:6d3
+INhG3n:6EYHH;N2bROH0^V0
+R1
+R2
+R7
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_cache_interface.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_cache_interface.v
+L0 9
+R4
+r1
+!s85 0
+31
+!s108 1793522250.000000
+!s107 config.vh|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_cache_interface.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\ebu\ahb_cache_interface.v|
+!i113 0
+R5
+R6
+vcache_control_fsm
+!s110 1793525222
+!i10b 1
+!s100 nY1lhaAGIMKN=j;f9JgkI3
+!s11b DPej:6FY@j9_oEfi6bm:L2
+ILVZB8LbMKN2W63Ob=HXTl1
+R1
+R2
+Z8 w1793494288
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_control_fsm.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_control_fsm.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1793525222.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_control_fsm.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_control_fsm.v|
+!i113 0
+R5
+R6
+vcache_line_select
+!s110 1793525219
+!i10b 1
+!s100 k>^?diDl__HLNNe_lZL;B0
+!s11b EgmggIRMFl>2Bk3Ee1UJX1
+I6X_gJanUfo>YlVAI3P83U1
+R1
+R2
+R8
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_line_select.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_line_select.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1793525219.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_line_select.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_line_select.v|
+!i113 0
+R5
+R6
+vcache_plru
+!s110 1793525215
+!i10b 1
+!s100 ibm;jKn9PQ7g^9KGAYTik1
+!s11b _U5MIjkdjC?g<BRSWP23a3
+Ien[mo0z`j21bREfHM30jS0
+R1
+R2
+R8
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_plru.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_plru.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1793525215.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_plru.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_plru.v|
+!i113 0
+R5
+R6
+vcache_tag_lutram_array
+Z9 !s110 1793525170
+!i10b 1
+!s100 C^kThARbC1Of_i6d9l0Z`3
+!s11b czMOAELoO[4C8R]d0`0_a2
+I?HbV9]T^SZDF4XC18OjM72
+R1
+R2
+R8
+Z10 8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_way.v
+Z11 Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_way.v
+L0 163
+R4
+r1
+!s85 0
+31
+Z12 !s108 1793525170.000000
+Z13 !s107 config.vh|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_way.v|
+Z14 !s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_way.v|
+!i113 0
+R5
+R6
+vcache_unit
+!s110 1793525173
+!i10b 1
+!s100 >W2bBQa9PIo^>MfWnDG>T0
+!s11b ZhP3fP426W3SG8J_AO0L?1
+I6XT5[1l1fIOP^6Jl[UCT^2
+R1
+R2
+R8
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_unit.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_unit.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1793525173.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_unit.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\cache\cache_unit.v|
+!i113 0
+R5
+R6
+vcache_way
+R9
+!i10b 1
+!s100 8GJO;i42YbR4KLg1Fgag11
+!s11b g<o1:UC_Rm<_oD8mV?SJ>1
+I:k];3eeE>Hi@0jToEMiRA1
+R1
+R2
+R8
+R10
+R11
+L0 8
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R5
+R6
+vMapper132
+!s110 1793602129
+!i10b 1
+!s100 :fR02:=D?SDL62i]kFmL52
+!s11b 8[N[<3k`4TG9P][8fI5NQ2
+ISN:YPAJ<3blCG9I4UBdHA3
+R1
+R2
+Z15 w1793493802
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\legacy\nes\mmu\Mapper132.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\legacy\nes\mmu\Mapper132.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1793602129.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\legacy\nes\mmu\Mapper132.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\legacy\nes\mmu\Mapper132.v|
+!i113 0
+R5
+R6
+n@mapper132
+vperf_event_adapter
+!s110 1793601885
+!i10b 1
+!s100 zbWR<k[eCbLRzKl<hgPmI0
+!s11b k9Ij34OL7Ig^_c:PZB5^81
+IZ@iiXNGzE6O:DPJFWCE@a1
+R1
+R2
+R3
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\perf\perf_event_adapter.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\perf\perf_event_adapter.v
+L0 7
+R4
+r1
+!s85 0
+31
+!s108 1793601885.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\perf\perf_defs.vh|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\perf\perf_event_adapter.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\perf\perf_event_adapter.v|
+!i113 0
+R5
+R6
+vpipeline_hazard_control
+!s110 1793604167
+!i10b 1
+!s100 7>^j`O:EojN1SZBUCLJZP3
+!s11b cjW]JEk=UXHb4Nhf5ED9n0
+IINVAYIPS6W02579D7JLoF3
+R1
+R2
+R3
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\hazard\pipeline_hazard_control.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\hazard\pipeline_hazard_control.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1793604167.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\hazard\pipeline_hazard_control.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\hazard\pipeline_hazard_control.v|
+!i113 0
+R5
+R6
+vRV32_core
+Z16 !s110 1793525229
+!i10b 1
+!s100 OcKP[@n3G8nN=^62g;1]F0
+!s11b IclY?V3Eo0I5>Qm^JWDIV1
+IeNF0<3Pm3TT<l`QinPde62
+R1
+R2
+w1793524995
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_core.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_core.v
+L0 8
+R4
+r1
+!s85 0
+31
+Z17 !s108 1793525229.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\..\perf\perf_defs.vh|config.vh|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_core.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_core.v|
+!i113 0
+R5
+R6
+n@r@v32_core
+vRV32_core_wrapper
+R16
+!i10b 1
+!s100 GGfhGGhBcQDj`XCamLoF00
+!s11b m[AAY3DHhAXdP9XiYbTEC3
+IgTC19eK8A4eXKzlkD7_T?3
+R1
+R2
+w1793525089
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_core_wrapper.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_core_wrapper.v
+L0 8
+R4
+r1
+!s85 0
+31
+R17
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\..\perf\perf_defs.vh|config.vh|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_core_wrapper.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_core_wrapper.v|
+!i113 0
+R5
+R6
+n@r@v32_core_wrapper
+vRV32_NES
+!s110 1793528652
+!i10b 1
+!s100 ^2XS=oS1Gl]=_?aBgmZ283
+!s11b 5QdTEXiTXOd_DJkY[g9kG1
+IELd7MAEiaX4WVLj?zGD?R0
+R1
+R2
+w1793528079
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_NES.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_NES.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1793528652.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_NES.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_NES.v|
+!i113 0
+R5
+R6
+n@r@v32_@n@e@s
+vRV32_NES_100MHZ
+!s110 1793524345
+!i10b 1
+!s100 fdP46=zM@=8W<[g6S?`;11
+!s11b JFi>R5iV:GZjBPUmKBUZ^0
+IP@WkTQ0@mdlAITaSoD10a3
+R1
+R2
+R15
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_NES_100MHZ.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_NES_100MHZ.v
+L0 4
+R4
+r1
+!s85 0
+31
+!s108 1793524345.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_NES_100MHZ.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_NES_100MHZ.v|
+!i113 0
+R5
+R6
+n@r@v32_@n@e@s_100@m@h@z
+vRV32_soc
+!s110 1793525232
+!i10b 1
+!s100 o[eC;?:B3O:z=OObFB3kN2
+!s11b 0?=cQfnfIWHQ8n[8eWFXd1
+IS5UmDl6DE:PV`?6FLcgn22
+R1
+R2
+w1793525155
+8e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_soc.v
+Fe:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_soc.v
+L0 8
+R4
+r1
+!s85 0
+31
+!s108 1793525232.000000
+!s107 e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\..\perf\perf_defs.vh|config.vh|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_soc.v|
+!s90 -nologo|-work|work|e:\download\edge\RV32_NES_Core_Detailed_English_Comments\RV32_NES\src\RV32_core\core\RV32_soc.v|
+!i113 0
+R5
+R6
+n@r@v32_soc
+vUSART_APB
+!s110 1793514969
+!i10b 1
+!s100 WLEoIlo]M[2ac1D_J8>=m0
+!s11b ?CCI7H1dYZQSo]:6JkR2Y2
+I8f;J]VdVXekdD:ZlSKddW3
+R1
+R0
+w1793484096
+8e:\download\edge\FPGA_NES_RV32_R5_AUDIO_SoC_Reorganized_20261101\FPGA_NES_RV32_R5_RELEASE_REFACTORED\src\soc_subsystem\peripherals\USART_APB.v
+Fe:\download\edge\FPGA_NES_RV32_R5_AUDIO_SoC_Reorganized_20261101\FPGA_NES_RV32_R5_RELEASE_REFACTORED\src\soc_subsystem\peripherals\USART_APB.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1793514969.000000
+!s107 e:\download\edge\FPGA_NES_RV32_R5_AUDIO_SoC_Reorganized_20261101\FPGA_NES_RV32_R5_RELEASE_REFACTORED\src\soc_subsystem\peripherals\USART_APB.v|
+!s90 -nologo|-work|work|e:\download\edge\FPGA_NES_RV32_R5_AUDIO_SoC_Reorganized_20261101\FPGA_NES_RV32_R5_RELEASE_REFACTORED\src\soc_subsystem\peripherals\USART_APB.v|
+!i113 0
+R5
+R6
+n@u@s@a@r@t_@a@p@b
